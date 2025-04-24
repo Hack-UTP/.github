@@ -1,0 +1,2 @@
+# .github
+Acerca del evento
